@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-저는 대학교 학부 사회학과를 졸업하고,
+저는 학부 사회학과를 졸업하고,
 <br>
 현재는 카이스트 SW정글 5기 교육을 받고 있습니다😀
 
