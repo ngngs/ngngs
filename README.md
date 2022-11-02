@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ngng-s@hanmail.net)](https://solved.ac/ngng-s@hanmail.net)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ngng-s@hanmail.net)](https://solved.ac/ngngs)
 <br>
 알고리즘, Computer Systems 를 공부하고 있습니다.
 <br>
