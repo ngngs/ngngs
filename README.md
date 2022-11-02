@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 저는 학부 사회학과를 졸업하고,
 <br>
 현재는 카이스트 SW정글 5기 교육을 받고 있습니다😀
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ngngs)](https://solved.ac/ngngs)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical)
+
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ngngs)](https://solved.ac/ngngs)
 <br>
 알고리즘, Computer Systems 를 공부하고 있습니다.
 <br>
