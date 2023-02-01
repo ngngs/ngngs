@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngngs)](https://solved.ac/ngngs/)
 
-알고리즘, Computer Systems 를 공부하고 있습니다.📚📚
+백엔드 엔지니어를 준비하고 있습니다.📚📚
 <br>
 학습한 내용은 개발 블로그에 꾸준히 업로드중입니다. 많은 관심 부탁드립니다 👏👏
 <br>
