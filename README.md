@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 <br>
 
 🙆개발 블로그🙆 : https://velog.io/@ngngs
+
+<br>Velog 올해 3번째로 많이 본 트렌딩 글이 되었습니다!
+<br>
+![그림](https://user-images.githubusercontent.com/47618270/215968661-85eea4d2-0ca5-4640-bc47-4f01224b4b77.png)
+
