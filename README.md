@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 카이스트 SW정글 5기 교육 수료했습니다😀
 <br>
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical) -->
 
 백엔드 엔지니어를 준비하고 있습니다.📚📚
 <br>
