@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngngs&show_icons=true&theme=radical) -->
 
-백엔드 엔지니어를 준비하고 있습니다.📚📚
+현재는 백엔드 엔지니어로 일하고 있습니다.📚📚
 <br>
 부족하지만 학습한 내용은 개발 블로그에 꾸준히 업로드중입니다. 많은 관심 부탁드립니다 👏👏
 <br>
